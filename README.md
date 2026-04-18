@@ -1,6 +1,6 @@
 # gnome-materials
 
-General-purpose toolkit for working with DeepMind's GNoME dataset (520,000+ AI-discovered stable materials). Designed for any composition system — not project-specific.
+General-purpose toolkit for working with DeepMind's GNoME dataset (520,000+ AI-discovered stable materials). Designed for any composition system — not project-specific (not tied to my Fe-SMA research; this is broader computation).
 
 ## Three Pathways
 
