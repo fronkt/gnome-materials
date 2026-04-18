@@ -13,9 +13,9 @@ The value of this repo is having all three in one place with a consistent interf
 
 ---
 
-## Is This a Novel Pipeline?
+## Why?
 
-Honestly: the components are not novel. GNoME, CHGNet, and OPTIMADE all existed before this repo. What this provides is:
+GNoME, CHGNet, and OPTIMADE all existed before this repo. What this provides is:
 
 1. A unified CLI interface across three different access patterns
 2. Automatic fallback (GNoME endpoint -> MP endpoint if GNoME is down)
