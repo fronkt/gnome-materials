@@ -1,0 +1,6 @@
+httpx
+pandas
+pymatgen
+chgnet
+matgl
+jarvis-tools
